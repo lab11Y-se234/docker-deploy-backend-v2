@@ -1,6 +1,6 @@
 services:
   backend:
-    image: yhtoo/234-deploylab-backend:latest
+    image: yhtoo/234-deploylab-backend:new-grading
     pull_policy: always
     ports:
       - "8084:8080"
